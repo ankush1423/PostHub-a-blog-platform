@@ -8,6 +8,7 @@ function AllPosts() {
          if(posts)
          {
             setPosts(posts.documents)
+            
          }
      })
   return (
